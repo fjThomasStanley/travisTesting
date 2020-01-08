@@ -1,0 +1,68 @@
+{
+  "projectName": "AutisticaCitizenScience",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "GeorgiaHCA",
+      "name": "Georgia Aitkenhead",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "profile": "https://github.com/GeorgiaHCA",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement",
+        "review",
+        "talk"
+      ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "doc",
+        "ideas",
+        "projectManagement",
+        "review",
+        "talk"
+      ]
+    },
+    {
+      "name": "Thomas Augur",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "contributions": [
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "name": "Otis Smith",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "contributions": [
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "gedankenstuecke",
+      "name": "Bastian Greshake Tzovaras",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/674899?v=4",
+      "profile": "https://tzovar.as",
+      "contributions": [
+        "ideas",
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
