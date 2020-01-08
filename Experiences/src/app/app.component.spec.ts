@@ -50,7 +50,7 @@ describe('AppComponent', () => {
 
 
   it('1 + 1', () => {
-    expect(1 + 1).toEqual(3);
+    expect(1 + 1).toEqual(2);
   });
 
   it('should create the app', () => {
